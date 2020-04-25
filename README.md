@@ -1,5 +1,5 @@
-Ipopt
-=====
+COIN-OR IPOPT with cmake
+========================
 
 Introduction
 ------------
